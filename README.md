@@ -57,7 +57,7 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/yourusername/predicting-football-injuries.git
+git clone https://github.com/hanelo/Pr-diction-des-blessures-majeures-des-footballeurs.git
 cd predicting-football-injuries
 Install the required libraries:
 
